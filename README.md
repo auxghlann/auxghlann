@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm Allan, a Computer Science Student from [University of Saint Louis Tuguegarao]: http://usl.edu.ph/
 <!--
 **AuxiliumGuru/AuxiliumGuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
