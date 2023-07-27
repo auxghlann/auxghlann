@@ -1,16 +1,21 @@
 # Welcome to My GitHub Repository!
 
 ### Hi there 👋
-I'm Allan, a Computer Science Student from [University of Saint Louis Tuguegarao](http://usl.edu.ph/). I'm a passionate developer who loves to explore the world of technology. The areas of interest that I want to pursue are data science, Artificial Intelligence (AI), and someday, some open-source contributions.
+I'm Allan, a Computer Science Student from [University of Saint Louis Tuguegarao](http://usl.edu.ph/). 
 
-I'm also a digital creator that creates contents about showcasing my projects and some tutorials on how to code.
+## About Me
+I'm a passionate developer who loves to explore the world of technology. The areas of interest that I want to pursue are data science, Artificial Intelligence (AI), and someday, some open-source contributions. I'm also a digital creator that creates contents about showcasing my projects and some tutorials on how to code.
 
 ## Programming Languages
+Im currently learning:
 - Java
 - Python
   
 ## Connect with Me
 - Work Email: khestermesa@gmail.com
+- [Facebook](https://www.facebook.com/allankhester.mesa)
+- [TikTok](https://www.tiktok.com/@educsystemsuckssss)
+- [Twitter](https://twitter.com/khesterm_322)
 
 
 <!--
