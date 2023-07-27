@@ -10,6 +10,10 @@ I'm a passionate developer who loves to explore the world of technology. The are
 Im currently learning:
 - Java
 - Python
+  - Numpy
+  - Pandas
+  - Matplotlib
+  - Scikit-learn
   
 ## Connect with Me
 - Work Email: khestermesa@gmail.com
