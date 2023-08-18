@@ -14,6 +14,7 @@ Im currently learning:
   - Pandas
   - Matplotlib
   - Scikit-learn
+- Visual C#
   
 ## Connect with Me
 - Work Email: khestermesa@gmail.com
