@@ -14,7 +14,7 @@ Im currently learning:
   - Pandas
   - Matplotlib
   - Scikit-learn
-- C#
+- C# / Visual C#
 - .NET Framework
   
 ## Connect with Me
