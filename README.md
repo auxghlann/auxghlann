@@ -15,7 +15,7 @@ Im currently learning:
   - Matplotlib
   - Scikit-learn
 - C# / Visual C#
-- .NET Framework
+-   .NET Framework
   
 ## Connect with Me
 - Work Email: khestermesa@gmail.com
