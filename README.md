@@ -8,6 +8,8 @@ I'm a passionate developer who loves to explore the world of technology. The are
 
 ## Programming Languages & Tools
 Im currently learning:
+
+![image](https://github.com/AuxiliumGuru/AuxiliumGuru/assets/119793489/54bbe6c2-88ad-4687-81dd-37cbbbccaf02)
 <svg xmlns="http://www.w3.org/2000/svg" width="100" height="100">
   <image href="https://github.com/AuxiliumGuru/AuxiliumGuru/assets/119793489/54bbe6c2-88ad-4687-81dd-37cbbbccaf02"/>
 </svg>
