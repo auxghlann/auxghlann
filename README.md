@@ -8,6 +8,8 @@ I'm a passionate developer who loves to explore the world of technology. The are
 
 ## Programming Languages
 Im currently learning:
+
+![External Icon]([https://example.com/path/to/your/image.png](https://icons8.com/icon/13679/java))
 - Java
 - Python
   - Numpy
