@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Allan, a sophomore Computer Science Student from University of Saint Louis Tuguegarao. I'm a passionate developer who loves to explore the world of technology. The areas of interest that I want to pursue are machine learning, Artificial Intelligence (AI), and someday, some open-source contributions. I'm also a digital creator that creates contents about showcasing my projects and some tutorials on how to code.
+I'm Allan, a sophomore Computer Science Student from University of Saint Louis Tuguegarao. I'm a passionate developer who loves to explore the world of technology. The areas of interest that I want to pursue are machine learning, Artificial Intelligence (AI), Data Engineering, and someday, some open-source contributions. I'm also a digital creator that creates contents about showcasing my projects and some tutorials on how to code.
 
 
 ## 🌐 Socials:
