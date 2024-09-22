@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Allan, currently a Junior Computer Science Student from the University of Saint Louis - Tuguegarao. I'm a passionate developer who loves to learn, teach, and explore more about the world of technology. The areas of interest that I'm currently pursuing are Back-end Development, Machine Learning, Artificial Intelligence (AI), Data Engineering, and someday, some open-source contributions.
+Hi! I'm Allan, currently a Junior Computer Science Student from University of Saint Louis - Tuguegarao. I'm a passionate developer who loves to learn, teach, and explore more about the world of programming. The areas of interest that I'm currently pursuing are Back-end Development, Machine Learning, Artificial Intelligence (AI), Data Engineering, and someday, some open-source contributions.
 
 
 ## 🌐 Socials:
