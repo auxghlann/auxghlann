@@ -22,7 +22,7 @@ You can connect with this table at:
 
 ---
 
-#### 🤖 AI & Intelligent Systems
+#### 🤖 AI Knowledge
 <div align="left">
 
   ![AI Fundamentals](https://img.shields.io/badge/AI%20Fundamentals-000000?style=for-the-badge&logo=openai&logoColor=white)
