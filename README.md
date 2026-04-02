@@ -49,7 +49,7 @@ You can connect with this table at:
 ### 🧩 Current Interests of this table
 - Building AI-assisted developer tools  
 - Agent-based systems & workflows  
-- Making software that *actually helps people think* instead of replacing them  
+- Making software that *actually helps people*
 
 ---
 
