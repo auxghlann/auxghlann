@@ -7,7 +7,7 @@ You can connect with this table at: [![LinkedIn](https://img.shields.io/badge/Li
 #### Current Interests of this table
 - Building AI-assisted developer tools  
 - Agent-based systems & workflows  
-- Making software that uses AI to *actually helps people*
+- Making software that uses AI to *actually help people*
 
 #### AI Working Knowledge
 - AI Fundamentals
