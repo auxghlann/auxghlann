@@ -30,7 +30,6 @@ You can connect with this table at: [![LinkedIn](https://img.shields.io/badge/Li
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
----
 
 ### 🛠️ Dev Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -41,14 +40,12 @@ You can connect with this table at: [![LinkedIn](https://img.shields.io/badge/Li
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=astral&logoColor=white)
 
----
 
 ### 🚀 Infra & Deployment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 
----
 
 ### 🧰 AI Dev Stack
 ![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge&logo=python&logoColor=white)
