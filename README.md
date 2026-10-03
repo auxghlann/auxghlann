@@ -32,9 +32,9 @@
 ```yaml
 developer_div:
   - writes_code
-  - crashes_sometimes
-  - debugs_and_fixes
-  - learns
+  - code_crashes
+  - debugs_and_fixes_code
+  - learn new things
   - repeat
 ```
 
@@ -61,24 +61,25 @@ developer_div:
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-1F2937?style=for-the-badge&logo=python&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1F2937?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Java](https://img.shields.io/badge/Java-1F2937?style=for-the-badge&logo=openjdk&logoColor=F89820)
 ![FastAPI](https://img.shields.io/badge/FastAPI-1F2937?style=for-the-badge&logo=fastapi&logoColor=00C7B7)
 ![React](https://img.shields.io/badge/React-1F2937?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Java](https://img.shields.io/badge/Java-1F2937?style=for-the-badge&logo=openjdk&logoColor=F89820)
-![C#](https://img.shields.io/badge/C%23-1F2937?style=for-the-badge&logo=csharp&logoColor=239120)
-![SQLite](https://img.shields.io/badge/SQLite-1F2937?style=for-the-badge&logo=sqlite&logoColor=003B57)
+
+
+### Data Intelligence
+![PySpark](https://img.shields.io/badge/PySpark-1F2937?style=for-the-badge&logo=apache-spark&logoColor=E5E7EB)
+![Databricks](https://img.shields.io/badge/Databricks-111827?style=for-the-badge&logo=databricks&logoColor=FF6C37)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-111827?style=for-the-badge&logo=apacheairflow&logoColor=017CEE)
+![Polars](https://img.shields.io/badge/Polars-111827?style=for-the-badge&logo=polars&logoColor=white)
+![Pandera](https://img.shields.io/badge/Pandera-111827?style=for-the-badge&logo=python&logoColor=F7DF1E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2937?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 
 ### AI Stack
 ![LangChain](https://img.shields.io/badge/LangChain-111827?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/LangGraph-111827?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-111827?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
 
-### Data Intelligence
-
-![PySpark](https://img.shields.io/badge/PySpark-1F2937?style=for-the-badge&logo=apache-spark&logoColor=E5E7EB)
-![Databricks](https://img.shields.io/badge/Databricks-111827?style=for-the-badge&logo=databricks&logoColor=FF6C37)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1F2937?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-
-### Tooling
+### Dev Tools
 ![Git](https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
 ![Antigravity](https://img.shields.io/badge/Antigravity-111827?style=for-the-badge&logoColor=white)
@@ -86,10 +87,13 @@ developer_div:
 ![VS Code](https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37)
 ![uv](https://img.shields.io/badge/uv-111827?style=for-the-badge&logo=astral&logoColor=DE5FE9)
-
-### Infra
 ![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Nginx](https://img.shields.io/badge/Nginx-111827?style=for-the-badge&logo=nginx&logoColor=009639)
+
+### Cloud
+
+
+![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![Vercel](https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-111827?style=for-the-badge&logo=digitalocean&logoColor=0080FF)
 
 ---
