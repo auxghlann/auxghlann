@@ -21,7 +21,7 @@
 ---
 
 
-### this table is a developer, somehow. idk why.
+### this table is a developer somehow. idk why.
 <div align="center">
 
 <table width="100%">
